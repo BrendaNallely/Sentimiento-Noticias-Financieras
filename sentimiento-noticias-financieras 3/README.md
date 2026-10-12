@@ -40,5 +40,3 @@ Seleccioné provisionalmente FinBERT por calidad. DistilRoBERTa fue más rápido
 ## Reproducibilidad
 El notebook fue reconstruido desde el PDF original; este paquete no fue ejecutado nuevamente con GPU. Los resultados nuevos se guardan por separado. Se fija Kaggle versión 5 y semilla 110; las revisiones originales de los modelos no estaban registradas y las métricas pueden variar. Cada nueva evaluación registra versiones y revisiones.
 
-## Datos y condiciones de uso
-Los datos se descargan al ejecutar; no están incluidos en el ZIP. Consultar data/README.md y las licencias originales. No subir tokens ni credenciales.
