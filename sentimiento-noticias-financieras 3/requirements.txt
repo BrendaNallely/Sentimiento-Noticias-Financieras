@@ -1,0 +1,7 @@
+transformers==4.57.1
+huggingface_hub==0.36.0
+torch>=2.6
+kagglehub
+scikit-learn
+pandas
+numpy

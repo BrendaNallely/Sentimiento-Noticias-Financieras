@@ -1,0 +1,4 @@
+Modelo,Accuracy,Precision macro,Recall macro,F1 macro,Latencia media (ms),Tiempo total por lotes (s)
+FinBERT,0.893,0.8586,0.9212,0.8845,43.7008,5.3323
+DistilRoBERTa,0.853,0.8367,0.8267,0.8314,19.4131,2.6576
+FinBERT Tone,0.79,0.8034,0.7363,0.7573,16.2065,3.7152
